@@ -28,8 +28,11 @@ Follow these steps to run the project locally.
 
 ### Running the Application
 
-1. Clone the repository:
+Clone the repository:
    ```bash
    git clone (https://github.com/SrikanthMidathapalli/ExpressBankingSystem.git)
+
+   
+![Output Screen](images/output.png)
 
 
